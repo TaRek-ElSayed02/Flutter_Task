@@ -28,7 +28,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 counter++;
               });
             },
-            icon: Text("$counter"), // Display the counter value in the AppBar
+            icon: Text("$counter"),
           ),
         ],
       ),
